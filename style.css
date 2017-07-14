@@ -1,0 +1,14 @@
+header {
+  height: 77px;
+  background: indigo;
+  text-align: Center;
+  color: turquoise;
+  font-family: arial;
+}
+body{
+  background: turquoise;
+}
+img{
+  height: 200px;
+  border: 5px solid indigo;
+}
